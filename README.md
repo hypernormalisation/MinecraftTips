@@ -53,3 +53,35 @@ Mod packs are run once to the welcome screen to allow any necessary assset const
 
 All the following test times were performed on a i7-6700k @ 4.0GHz, with 16GB of RAM. That processor is a quad-core, hyper-threaded model so to estimate your own times scale by your own CPU capbility (the CPU usage time is not always at 100% when the mods are initialising so a comparison calculation with a less powerful CPU is a worst-case scenario and if, like Karl, you own Deep Blue you are probably fine).
 
+---
+# Launcher comparisons
+
+So let's take a look at some of the launchers out there and see what they offer, and what mod packs feature on them.
+
+I have also checked compatibility with Windows/macOS/Linux - but even if something doesn't work on one of the three (probably Linux) there are two possible fixes:
+- the mod pack is available on another launcher which does work on Linux
+- manual installs (possible but would like to avoid)
+
+
+---
+# Twitch (formerly Curse)
+
+The Twitch application has a powerful tool built-in for automating minecraft for you.
+From the application home page click "Mods" and you'll see a variety of supported games that Twitch can manage for you including Minecraft(note to Lauren: Darkest Dungeon is here too!). That menu takes you to the mod browsing and launching screen.
+
+### Compatibility
+- Windows &#x2611; 
+- macOS &#x2611; 
+- Arch &#x2612; - Lutris installs Twitch app successfully but the Mod tab does load - I suspect this is an issue with 32-bit libraries, and am not sure how to solve. Manual installation of any mod is still however possible
+
+### Mod packs and performances
+
+Mod pack              | Startup Time | Peak Memory Usage (GB) | Notes
+ -------------         |:-------------| :-- | :--
+ RL Craft | 0:54 | 6.5 | Relatively new, hard as nails realism pack. You will die and die lots, but I've watched some streamers play it and it looks actually very good fun.
+
+Sky Factory 4 | 2:38 | 7.5 | "Sky block" type of game, but one that allows you to simulate all kinds of survival situations (e.g crash spaceship landing, worlds made of floating islands etc)
+
+Roguelike Adventures | 2:04 | 8 | Quest-oriented modpack.
+
+SevTech Ages | N/A | 9.1 | Crashed. Cool concept though, progression through the ages. Would be nice to get working.
