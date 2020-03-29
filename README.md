@@ -118,8 +118,9 @@ brew cask install feed-the-beast
 #### Arch &#x2611;
 Package `feedthebeast` available on AUR, e.g. 
 ```bash
-yay -S feedthebeast` or the equivalent for your AUR helper
+yay -S feedthebeast
 ```
+or the equivalent for your AUR helper
 
 ## Mod packs and performances
 
