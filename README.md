@@ -3,4 +3,4 @@ Documents describing how to get the most of out Minecraft, including mods/launch
 
 ToC
 
-[Intro](https://github.com/hypernormalisation/MinecraftTips/blob/master/intro.md)
+[Intro (or why use mods?)](https://github.com/hypernormalisation/MinecraftTips/blob/master/intro.md)
