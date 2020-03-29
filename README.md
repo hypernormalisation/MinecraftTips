@@ -79,9 +79,6 @@ From the application home page click "Mods" and you'll see a variety of supporte
 Mod pack              | Startup Time | Peak Memory Usage (GB) | Notes
  -------------         |:-------------| :-- | :--
  RL Craft | 0:54 | 6.5 | Relatively new, hard as nails realism pack. You will die and die lots, but I've watched some streamers play it and it looks actually very good fun.
-
 Sky Factory 4 | 2:38 | 7.5 | "Sky block" type of game, but one that allows you to simulate all kinds of survival situations (e.g crash spaceship landing, worlds made of floating islands etc)
-
 Roguelike Adventures | 2:04 | 8 | Quest-oriented modpack.
-
 SevTech Ages | N/A | 9.1 | Crashed. Cool concept though, progression through the ages. Would be nice to get working.
