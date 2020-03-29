@@ -2,6 +2,8 @@
 
 A document detailing wonderful world of Minecraft in March 2020, to help us choose the most fun MC setup for our quarantine time.
 
+Troubleshooting can be found at [this page](https://github.com/hypernormalisation/MinecraftTips/blob/master/troubleshooting.md).
+
 ## Why Minecraft?
 
 - low barrier to entry in cost/device performance
