@@ -4,7 +4,7 @@ We have configured a server using a lightweight set of mods, based upon generati
 
 I've created a *containerised* version of Minecraft that includes all of those mods, plus texture packs for the basic Minecraft game, and all the mods, plus fancy shaders for lighting and water effects.
 
-If you want to play, these are the instructions!
+If you want to play, these are the instructions. But you will need a Mojang account that owns the *Java edition* of Minecraft to do so.
 
 In brief, we will download an open-source program called multiMC (if you know coding, think "Docker for Minecraft"), and then download an image from this repository to use with multiMC.
 
