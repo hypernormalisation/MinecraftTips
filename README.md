@@ -77,7 +77,7 @@ Then simply double click the icon of your newly-added Coronacraft instance, and 
 
 Double click on that, or hit "launch" on the right panel annnnd
 
-![][img/8.png]
+![_][img/8.png]
 
 hopefully you end up here!
 
