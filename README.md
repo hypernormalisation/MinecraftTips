@@ -13,6 +13,7 @@ Then contact me in private or a group chat to get the server details!
 ## multiMC application
 
 multiMC is downloadable here: https://multimc.org/#Download
+
 It's cross-platform so works on Windows/macOS/Linux.
 
 #### JDK
@@ -39,6 +40,14 @@ Coronacraft_1.0.zip | Meant for powerful machines with a good dedicated GPU. If 
 Coronacraft_lite_1.0.zip | If your machine has a reasonable, but not amazing, dedicated GPU then this is a safe bet. Uses 64x64 textures and custom shaders. Slightly lower graphics settings to save frames | 80-100
 Coronacraft_potatoe_1.0.zip | If your machine has no dedicated GPU or a really bad one, this might do the trick in a pinch. Uses 64x64 textures and basic shaders (but these basic shaders still do cool things like give you portable torch light!) | 200-300
 
+Links here:
+https://github.com/hypernormalisation/MinecraftTips/blob/master/containers/Coronacraft_1.0.zip
+
+https://github.com/hypernormalisation/MinecraftTips/blob/master/containers/Coronacraft_lite_1.0.zip
+
+https://github.com/hypernormalisation/MinecraftTips/blob/master/containers/Coronacraft_potato_1.0.zip
+
+- 
 ## Install
 
 Once you have multiMC opened up, you can untick the google analytics reporting, and find yourself in the main menu.
@@ -54,6 +63,3 @@ Then simply double click the icon of your newly-added Coronacraft instance, and 
 No need to configure shaders or texture packs, just go straight to the server or test your graphics settings on a single player game!
 
 (If you play single player, set the world type in the creation to "biomes o plenty" to get the cool stuff also generated.)
-
-
-
