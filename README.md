@@ -32,7 +32,7 @@ There are 3 versions available, given in the table below, with different graphic
 
 For frames per second (FPS) references, my machine is a i7-6700k 4c/8t processor with 16GB of RAM and a GTX1070 dedicated GPU. So, very good but still about 5 years old.
 
-It's also important to note that all of these can be downloaded and configured independently! So you can try out all 3 at once and find the best one for you, and then of course tweak the in-game options to make things look better or run s>
+It's also important to note that all of these can be downloaded and configured independently! So you can try out all 3 at once and find the best one for you, and then of course tweak the in-game options to make things look better or run smoother.
 
 Version   |  Notes | FPS on my machine
  ------------- |:-------------| :-----
