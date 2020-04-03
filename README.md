@@ -52,32 +52,33 @@ https://github.com/hypernormalisation/MinecraftTips/blob/master/containers/Coron
 
 Once you have multiMC opened up, you can untick the google analytics reporting, and find yourself in the main menu.
 
-![][img/1.png]
+![](img/1.png)
 
 At the top right of the screen, open the account manager and add your Mojang account email/password.
 
-![][img/2.png]
+![](img/2.png)
 
 Enter your details here
 
-![][img/2_5.png]
+![](img/2_5.png)
 
 Your account will now be added
 
-![][img/3.png]
+![](img/3.png)
 
 Then click "Add Instance" in the top left, and click "Import from zip".
 Give the location of the Coronacraft zip file you want to add
-![][img/5.png]
-![][img/6.png]
+![](img/5.png)
+
+![](img/6.png)
 
 Then simply double click the icon of your newly-added Coronacraft instance, and it will boot to the client after downloading some libraries.
 
-![][img/7.png]
+![](img/7.png)
 
 Double click on that, or hit "launch" on the right panel annnnd
 
-![_][img/8.png]
+![](img/8.png)
 
 hopefully you end up here!
 
