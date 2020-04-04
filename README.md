@@ -36,9 +36,9 @@ It's also important to note that all of these can be downloaded and configured i
 
 Version   |  Notes | FPS on my machine
  ------------- |:-------------| :-----
-Coronacraft_1.0.zip | Meant for powerful machines with a good dedicated GPU. If you have a recent gaming PC, this is for you! Uses 128x128 textures and custom shaders. | 60-80
-Coronacraft_lite_1.0.zip | If your machine has a reasonable, but not amazing, dedicated GPU then this is a safe bet. Uses 64x64 textures and custom shaders. Slightly lower graphics settings to save frames | 80-100
-Coronacraft_potatoe_1.0.zip | If your machine has no dedicated GPU or a really bad one, this might do the trick in a pinch. Uses 64x64 textures and basic shaders (but these basic shaders still do cool things like give you portable torch light. | 200-300
+Coronacraft_1.0.zip | Meant for powerful machines with a good dedicated GPU. If you have a recent gaming PC, this is for you! Uses 128x128 textures and includes SEUS and Sildur's High shaders. Sildur's is default because SEUS is temperamental, but can look great if it works for you. | 60-80
+Coronacraft_lite_1.0.zip | If your machine has a reasonable, but not amazing, dedicated GPU then this is a safe bet. Uses 64x64 textures and Sildur's medium shaders. Slightly lower graphics settings to save frames | 80-100
+Coronacraft_potatoe_1.0.zip | If your machine has no dedicated GPU or a really bad one, this might do the trick in a pinch. Uses 64x64 textures and Sildur's lite shaders. | 200-300
 
 Links here:
 
