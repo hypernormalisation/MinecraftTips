@@ -1,6 +1,6 @@
 # Minecraft optimisations
 
-Now L has her new Ryzen rig and A will be installing minecraft on their machine with a gpu, things are looking up - none of us are liable to be CPU or RAM limited if you are playing on the server.
+Now L has their new Ryzen rig and A will be installing minecraft on their machine with a gpu, things are looking up - none of us are liable to be CPU or RAM limited if you are playing on the server.
 
 L, however, was playing last night on some of relatively medium settings was getting some FPS spikes and low FPS in general.
 Minecraft can be a daunting application to configure, with probably over one hundred settings; some pretty fringe, some with huge quality impacts.
