@@ -35,15 +35,16 @@ For all these changes my GPU/VRAM usage didn't change all that much - instead I 
 These are only the settings that affect performance.
 
 - graphics (fast/fancy): 5-20 FPS benefit depending on location, no visible difference to me in game.
-- smooth lighting: having this set to 50% and maximum is probs worth the couple of dropped frames
-- dyanamic lights: have these set to fast - they let your torghes light the ambient area, and the maximum option is a frame killer with very little noticeable difference.
+- smooth lighting: having this set to 50% on the first slider and maximum on the second toggle is probs worth the couple of dropped frames
+- dyanamic lights: have these set to fast - this lets the torched you carry light the ambient area, and the maximum option is a frame killer with very little noticeable difference.
 - Use VBOs: a best as I can tall, have it on. Possible gains.
-- render distance: it's important to remember that multiplayer servers only send clients chunk info at MAX away, despire what you have in your settings. There can, however, be use in running a slightly higher one, say 22-24 or so - this persists where you might have just visited in the world if you're on the move and can look good. Otherwise - this setting will murder even a top-level machine if you set it much above 32.
+- render distance: it's important to remember that multiplayer servers only send clients chunk info at MAX of 16 away, despire what you have in your settings. There can, however, be use in running a slightly higher one, say 22-24 or so - this persists where you might have just visited in the world if you're on the move and can look good. Otherwise - this setting will murder even a top-level machine if you set it much above 32.
 
 ## Animations
 
 You generally want all of these on for the look and feel of the game.
-If you're having FPS issues setting particles to "decreased" or "minimal" may be of use.
+
+If you're having FPS issues, setting particles to "decreased" or "minimal" may increase performance.
 
 
 ## Details
