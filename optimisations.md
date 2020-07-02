@@ -24,6 +24,8 @@ To mitigate this a little, I'm using the application MSI Afterburner application
 Now, this is obviously not a perfect map - some GPUs are better at some things than others, especially between hardware generations.
 But should give a decent idea of how a modern GPU handles minecraft with shaders and good resource packs running.
 
+But of course *just because a setting has minimal performance for your my does not mean that will hold true for your card*!
+
 In each test I will run around a single player world for a while and not the max GPU and RAM usages.
 
 I will do so for a permutation of:
@@ -53,7 +55,27 @@ If you're having FPS issues setting particles to "decreased" or "minimal" may be
 ## Details
 - clouds: keep them off, the texture pack supplies their own, better looking ones
 - trees (fast/smart/fancy): probably worth keeping this set to "smart" so the trees are a little transulcent. If you're having frame issues then they still look fine in "fast".
+- fog: very little difference for me, but my testing was in a sunny biome. Could have significant effects in storms etc.
+- translucent blocks: very little difference
+- swamp colours: keep on for looks
+- alternate blocks: same as above - can look dodgy without
 
+None of the rest of the Details video options seem to matter very much.
+
+
+## Quality
+- mipmap settings don't do much for me but someone confirming this would be nice
+- the anisotropic filtering/antialiasing are not enabled when shaders are so you can skip this
+- emissive textures you *very much want on* as they make some shader packs look very wonky
+- better grass and snow can maybe save a couple of frames, but not much. If you're struggling turn them off.
+
+Nothing else in the Quality options seems very relevant to performance.
+
+## Performance
+Most options here can be left apart from the following:
+
+- Smooth FPS: seems to cost wayyyyy too many frames in its pusrsuit of steadying the output, turn it off.
+- Chunk Updates: put it lower if you have lag or FPS issues, otherwise 4-5 seems more responsive.
 
 
 # Texture packs
