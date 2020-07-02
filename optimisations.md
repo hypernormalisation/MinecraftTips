@@ -34,7 +34,7 @@ All these checks are run with me running SEUS shaders, 128x texture packs, on 10
 For all these changes my GPU/VRAM usage didn't change all that much - instead I checked framerate concistency.
 These are only the settings that affect performance.
 
-- graphics (fast/fancy): 5-20 FPS benefit depending on location, no visible difference to me/
+- graphics (fast/fancy): 5-20 FPS benefit depending on location, no visible difference to me in game.
 - smooth lighting: having this set to 50% and maximum is probs worth the couple of dropped frames
 - dyanamic lights: have these set to fast - they let your torghes light the ambient area, and the maximum option is a frame killer with very little noticeable difference.
 - Use VBOs: a best as I can tall, have it on. Possible gains.
