@@ -78,9 +78,96 @@ Most options here can be left apart from the following:
 - Chunk Updates: put it lower if you have lag or FPS issues, otherwise 4-5 seems more responsive.
 
 
+# Shader packs
+
+The two shader packs being used to far are SEUS and Sldur's (high/medium/lite)/
+
+SEUS is temperamental with regards to GFX card drives (but looks lovely if it runs). Sildurs also looks great but both ot eh above tend to be significant resource drains
+
+Now of course some shader packs, like Sildurs, are *wildy* configurable - so if you're getting poor performance using Sildur's then you can play around with the settings.
+
+I might write about that at some point, but in the meantime I looked into some comparisons of shader packs running on my machine. Some more are tested herein.
+
 # Texture packs
 
 The texture (sometimes called "resource" packs) we use are chosen because they generally match up between the mods (Extended Caves we're looking at you), and they're not total eyesores.
 
 I have complete texture packs for 128x, 64x and 32x. With some older cards we might see some real improvements in the 32x packs, so will be giving them a try.
+
+
+To push my machine a bit, I'm running max settings and 128x texture packs, but imposing a 60fps limit so the results are more transferable to older machines.
+
+# Test results
+For most cases, the texture packs used do not influence the GPU usage, just the VRAM.
+
+## SEUS-RENEWED
+
+GPU ave 60%
+
+128x - 3 GB VRAM
+
+64x - 2.4 GB VRAM 
+
+32x - 2.2 GB VRAM
+
+Only powerful machines (with the right drivers) can use this configuration.
+
+
+## Chocapic
+Now let's look at something new with the Chocapic v7 shaders I've been running.
+They are similar to SEUS but with a lightly more photorealistic aesthetic.
+
+They also come in a variety of shader packs:
+- toaster
+- lite
+- low
+- medium
+- high
+- ultra
+- extreme
+
+So with the aim of looking at how lower-end machines can perform with nice shaders, let's test a bit.
+
+- Lite: 14% GPU usage, 1GB VRAM @ 64x textures - very smooth but no reflections
+- Medium: 20% GPU usage, comparable VRAM
+- High: 38% GPU usage
+- treme @ 218x textures: 65% with 2.4 GB VRAM.
+
+## Sildurs
+
+Out of interest, let's look at how Sildur's stack up here, given they have already been used by players on the servers:
+
+- Sildur's lite: 35%, 1.9GB VRAM
+- Sildur's medium: 38%, 1.9GB VRAM
+
+Sildur's looks very much like the Chocapic ones, but appear quite a bit more resource intensive.
+
+I alse notice that Sildur's does strange things with shadows of smaller objects like grass, that I didn't observe in the other shader packs.
+
+## Conclusion
+
+If you're running a high-end machine that deals with SEUS's shaders well, stay the course
+
+If you are either:
+- runnng a high-end machine with SEUS graphics drivers issues
+- running a lower-end machine
+
+...then you should check out the updated version on the repo called "Liquid_foorball_Craft".
+It's too big for github so you can find it on my Drive:
+https://drive.google.com/file/d/1Yq5Ox5UqxdsdP1-GCFSSYYwZ5jaE8e7f/view?usp=sharing
+
+If comes configured out-of-the-box to use the Chocapic medium shaders, and the 32x versions of the Sphax texure packs. Using those should give users of less powerful PCs a bit more performance and still look very much like what they're used to with Sildur's.
+
+Of course, the container comes with the full new expanded set of shaders, and the 128x/64x/32x versions of the texture packs - so you can mix and match to your heart's content, find the right looks-to-performance ratio for yourselves.
+
+If you want to transfer your map to the new instance rather than alter your existing client, you can just copy over your XartoWorldMap folder to the new instance.
+
+## Known Issues
+
+- There is still a problem with Xaero's minimap when trying to create waypoints under certain conditions - this can break your container in ways we don't yet understand so avoid waypoints for now
+- When many people are on the server, we notice slowdown in certain areas like minecarts. We'll be considering how to reduce server lag without having to upgrade the server machinery very kindly offered by Will.
+
+
+
+
 
