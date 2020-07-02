@@ -75,20 +75,19 @@ Most options here can be left apart from the following:
 
 # Shader packs
 
-The two shader packs being used to far are SEUS and Sldur's (high/medium/lite)/
+The two shader packs being used to far are SEUS and Sldur's (high/medium/lite).
 
-SEUS is temperamental with regards to GFX card drives (but looks lovely if it runs). Sildurs also looks great but both ot eh above tend to be significant resource drains
+SEUS is temperamental with regards to GFX card drives (but looks lovely if it runs). Sildurs also looks great but both of the above tend to be significant resource drains
 
-Now of course some shader packs, like Sildurs, are *wildy* configurable - so if you're getting poor performance using Sildur's then you can play around with the settings.
+Now of course some shader packs, like Sildurs, are *very* configurable - so if you're getting poor performance using Sildur's then you can play around with the settings.
 
-I might write about that at some point, but in the meantime I looked into some comparisons of shader packs running on my machine. Some more are tested herein.
+I might write about that at some point, but in the meantime I looked into some comparisons of other shader packs running on my machine (detailed below).
 
 # Texture packs
 
-The texture (sometimes called "resource" packs) we use are chosen because they generally match up between the mods (Extended Caves we're looking at you), and they're not total eyesores.
+The texture (sometimes called "resource" packs) we use are chosen because they generally match up between the mods we use (Extended Caves we're looking at you), and they're not total eyesores.
 
 I have complete texture packs for 128x, 64x and 32x. With some older cards we might see some real improvements in the 32x packs, so will be giving them a try.
-
 
 To push my machine a bit, I'm running max settings and 128x texture packs, but imposing a 60fps limit so the results are more transferable to older machines.
 
@@ -147,7 +146,7 @@ If you are either:
 - runnng a high-end machine with SEUS graphics drivers issues
 - running a lower-end machine
 
-...then you should check out the updated version on the repo called "Liquid_foorball_Craft".
+...then you should check out the updated version on the repo called "Liquid_football_Craft".
 It's too big for github so you can find it on my Drive:
 https://drive.google.com/file/d/1Yq5Ox5UqxdsdP1-GCFSSYYwZ5jaE8e7f/view?usp=sharing
 
