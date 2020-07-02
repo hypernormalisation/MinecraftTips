@@ -21,11 +21,8 @@ To mitigate this a little, I'm using the application MSI Afterburner application
 Now, this is obviously not a perfect map - some GPUs are better at some things than others, especially between hardware generations.
 But should give a decent idea of how a modern GPU handles minecraft with shaders and good resource packs running.
 
-But of course *just because a setting has minimal performance for your my does not mean that will hold true for your card*!
+I will run through:
 
-In each test I will run around a single player world for a while and not the max GPU and RAM usages.
-
-I will do so for a permutation of:
 - in game settings
 - texture pack size
 - shader pack
